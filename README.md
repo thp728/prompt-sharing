@@ -21,6 +21,7 @@ This project was developed with the primary purpose of learning Next.js, a React
 
 These are some ideas that are yet to be implemented into the project:
 
+- **FIX NEXTAUTH URL IN ENV**
 - Implement search
   - by prompt
   - by tag
