@@ -5,8 +5,6 @@ Promptopia is a collaborative platform for sharing prompts used as inputs to var
 ## Key Features
 
 - **Prompt Sharing:** Share your creative prompts to spark the imagination of others in the AI community.
-- **Diverse AI Models:** Explore prompts tailored for different AI models, from text generators to image synthesis.
-- **Collaborative Environment:** Engage in discussions, collaborate on ideas, and refine prompts with fellow users.
 - **Inspiration Hub:** Find the perfect prompt to kickstart your next AI project or experiment.
 
 ## Technologies Used
@@ -29,6 +27,8 @@ These are some ideas that are yet to be implemented into the project:
   - by username
 - Implement click on tag
 - Implement view other profiles
+- Model Tags: text-to-text, text-to-image, etc.
+- Blog: Engage in discussions, collaborate on ideas, and refine prompts with fellow users.
 
 ## Feedback and Support
 
